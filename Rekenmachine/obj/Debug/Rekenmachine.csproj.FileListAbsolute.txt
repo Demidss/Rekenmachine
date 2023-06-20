@@ -1,0 +1,15 @@
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.AssemblyReference.cache
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.SuggestedBindingRedirects.cache
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\MainWindow.baml
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\MainWindow.g.cs
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\App.g.cs
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine_MarkupCompile.cache
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.g.resources
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\SchoolProjecten\lvl4\C#\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
